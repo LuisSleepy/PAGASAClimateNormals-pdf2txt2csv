@@ -35,3 +35,6 @@ The outputted CSV files from this project would be utilized to create a data vis
 For more information regarding the description of each climate parameter, kindly refer to any of the PDF file of climatological normals from DOST-PAGASA.
 
 For any inappropriate or faulty data stored in the CSV files, or any other concerns, you could send me an email at siulnaj0117@gmail.com.
+
+## Viz in Tableau
+The CSV file containing the climatological normals were used to create a visualization using Tableau Public. In this way, it would be easier to see the differences in normals across different locations in the Philippines. The viz is accessible here: https://public.tableau.com/app/profile/jan.luis.antoc/viz/PAGASA-ClimatologicalNormalsinthePhilippines/PAGASAClimatologicalData-dashboard.
